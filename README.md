@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+Meu nome é Melyysa
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e
+compartilhamento dos meus projetos desenvolvidos
 **melyssa0204/melyssa0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+![naruto dando um joia](https://media.tenor.com/mCiM7CmGGI4AAAAM/naruto.gif)
